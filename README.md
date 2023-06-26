@@ -6,7 +6,7 @@
 Bienvenido/a a mi perfil de GitHub. Aquí encontrarás una variedad de proyectos en los que he trabajado utilizando diferentes tecnologías. ¡Echa un vistazo y siéntete libre de explorar!
 
 
-## Acerca de mí
+## Acerca de mí 🤠🤠
 
 Soy un desarrollador web apasionado por crear aplicaciones atractivas y funcionales utilizando HTML, CSS y JavaScript. Mi objetivo es proporcionar experiencias de usuario excepcionales y soluciones eficientes en cada proyecto.
 
