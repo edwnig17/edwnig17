@@ -6,16 +6,14 @@
 Bienvenido/a a mi perfil de GitHub. Aquí encontrarás una variedad de proyectos en los que he trabajado utilizando diferentes tecnologías. ¡Echa un vistazo y siéntete libre de explorar!
 
 
-## Acerca de mí 🤠🤠
+## Acerca de mí  🙋🏾‍♂️🙋🏾‍♂️ 
 
 Soy un desarrollador web apasionado por crear aplicaciones atractivas y funcionales utilizando HTML, CSS y JavaScript. Mi objetivo es proporcionar experiencias de usuario excepcionales y soluciones eficientes en cada proyecto.
 
-## Experiencia destacada
+## Experiencia destacada 👀👀
 
 ### Empresa CAMPUS
 **FRONTEND DEVELOPER/ BACKEND DEVELOPER** | Floridablanca | 2023 - Presente.
-
-## Experiencia destacada
 
 - Estudio intensivo en campus "fullstack".
 - Cursos en platzi.
@@ -37,7 +35,7 @@ Soy un/a desarrollador/a apasionado/a por la creación de aplicaciones web y el 
 - ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
 
-## Habilidades destacadas
+## Habilidades destacadas 🤠🤠
 
 Aquí están algunas de mis habilidades destacadas:
 
