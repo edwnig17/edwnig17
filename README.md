@@ -6,7 +6,7 @@
 Bienvenido/a a mi perfil de GitHub. Aquí encontrarás una variedad de proyectos en los que he trabajado utilizando diferentes tecnologías. ¡Echa un vistazo y siéntete libre de explorar!
 
 
-## Acerca de mí  🙋🏾‍♂️🙋🏾‍♂️ 
+## Acerca de mí 👨🏾‍💻👨🏾‍💻
 
 Soy un desarrollador web apasionado por crear aplicaciones atractivas y funcionales utilizando HTML, CSS y JavaScript. Mi objetivo es proporcionar experiencias de usuario excepcionales y soluciones eficientes en cada proyecto.
 
@@ -46,7 +46,7 @@ Aquí están algunas de mis habilidades destacadas:
 - Desarrollo de aplicaciones web dinámicas con PHP.
 - Desarrollo de aplicaciones backend utilizando Node.js y Express.
 
-## Intereses
+## Intereses 🙋🏾‍♂️🙋🏾‍♂️ 
 
 Mis intereses adicionales en el desarrollo web incluyen:
 
@@ -58,7 +58,7 @@ Mis intereses adicionales en el desarrollo web incluyen:
 
 Si estás interesado/a en colaborar en alguno de mis proyectos o tienes ideas para una posible colaboración, ¡no dudes en contactarme! Estoy abierto/a a nuevas oportunidades y siempre disfruto trabajando en equipo.
 
-## Contacto
+## Contacto 📲📱
 
 Puedes encontrarme en las siguientes plataformas:
 
